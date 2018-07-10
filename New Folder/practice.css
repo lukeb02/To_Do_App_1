@@ -1,0 +1,13 @@
+div{
+    font-family:'helvetica-neue', helvetica, sans-serif;
+    letter-spacing: 3px; 
+    text-transform: uppercase;
+    border:2px solid rgba(0,0,200,0.6);
+    background:#F299C1;
+    color:#5EB5C0;
+    box-shadow:3px 3px 1px;
+    Border-radius:20px;
+    padding:3px 10px;
+    display: inline-block; 
+    cursor:pointer;
+}
